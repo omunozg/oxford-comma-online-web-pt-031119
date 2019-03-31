@@ -20,9 +20,6 @@ def oxford_comma(array)
     
   else
     return
+    
   end
-
-return array
-  
-end
 
