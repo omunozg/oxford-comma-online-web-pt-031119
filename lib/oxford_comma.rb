@@ -14,12 +14,10 @@ def oxford_comma(array)
     array.insert(array.lenght -1, "and")
     
   else
-    
-    return array
+    return
   end
-  
-    
-  return array
+
+return array
   
 end
 
